@@ -104,7 +104,7 @@ p {
   box-shadow: 0 16px 48px rgba(0, 0, 0, 0.175) !important;
 }
 
-.btn {
+.project-links {
   background: var(--primary-color);
   box-shadow: var(--box-shadow);
   color: white;
@@ -130,7 +130,7 @@ p {
   p {
     text-align: center !important;
   }
-  .btn {
+  .project-links {
     display: block;
     text-align: center;
     margin: 0 20px;
